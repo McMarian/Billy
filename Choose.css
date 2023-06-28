@@ -1,0 +1,117 @@
+ .u-section-1 {
+  background-image: url("images/Billy-5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-image-1 {
+  width: 105px;
+  height: 105px;
+  margin: 246px 506px 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 127px;
+  height: 127px;
+  margin: 119px 346px 0 auto;
+}
+
+.u-section-1 .u-image-3 {
+  width: 94px;
+  height: 106px;
+  margin: -106px auto 60px 388px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 580px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 80px;
+    height: 80px;
+    margin-top: 193px;
+    margin-right: 418px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 85px;
+    height: 85px;
+    margin-top: 115px;
+    margin-right: 297px;
+  }
+
+  .u-section-1 .u-image-3 {
+    width: 66px;
+    height: 73px;
+    margin-top: -73px;
+    margin-left: 320px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 532px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 176px;
+    margin-right: 308px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 81px;
+    margin-right: 212px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 74px;
+    margin-top: -74px;
+    margin-left: 236px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 587px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 200px;
+    margin-right: 219px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 96px;
+    margin-right: 113px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -62px;
+    margin-left: 138px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 634px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 216px;
+    margin-right: 118px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 121px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -74px;
+    margin-left: 24px;
+  }
+}
